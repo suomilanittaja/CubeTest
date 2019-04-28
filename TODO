@@ -1,1 +1,1 @@
-Fix Assets/ChunkMB.cs: error CS0120: An object reference is required to access non-static member `World.queue' Errors
+Fix Assets/ChunkMB.cs: error CS0120: An object reference is required to access non-static member `World.queue' Errors  FIXED
