@@ -6,6 +6,7 @@ public class ChunkMB: MonoBehaviour
 {
 	Chunk owner;
 	public ChunkMB(){}
+	World World = new World();
 	public void SetOwner(Chunk o)
 	{
 		owner = o;
